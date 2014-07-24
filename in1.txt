@@ -1,0 +1,167 @@
+node:Canada:Ottawa
+node:Alabama:Montgomery
+node:Alaska:Juneau
+node:Arizona:Phoenix
+node:Arkansas:Little Rock
+node:California:Sacramento
+node:Colorado:Denver
+node:Connecticut:Hartford
+node:Delaware:Dover
+node:Florida:Tallahassee
+node:Georgia:Atlanta
+node:Hawaii:Honolulu
+node:Idaho:Boise
+node:Illinois:Springfield
+node:Indiana:Indianapolis
+node:Iowa:Des Moines
+node:Kansas:Topeka
+node:Kentucky:Frankfort
+node:Louisiana:Baton Rouge
+node:Maine:Augusta
+node:Maryland:Annapolis
+node:Massachusetts:Boston
+node:Michigan:Lansing
+node:Minnesota:St. Paul
+node:Mississippi:Jackson
+node:Missouri:Jefferson City
+node:Montana:Helena
+node:Nebraska:Lincoln
+node:Nevada:Carson City
+node:New Hampshire:Concord
+node:New Jersey:Trenton
+node:New Mexico:Santa Fe
+node:New York:Albany
+node:North Carolina:Raleigh
+node:North Dakota:Bismarck
+node:Ohio:Columbus
+node:Oklahoma:Oklahoma City
+node:Oregon:Salem
+node:Pennsylvania:Harrisburg
+node:Rhode Island:Providence
+node:South Carolina:Columbia
+node:South Dakota:Pierre
+node:Tennessee:Nashville
+node:Texas:Austin
+node:Utah:Salt Lake City
+node:Vermont:Montpelier
+node:Virginia:Richmond
+node:Washington:Olympia
+node:West Virginia:Charleston
+node:Wisconsin:Madison
+node:Wyoming:Cheyenne
+edge2:Washington,Idaho
+edge2:Washington,Oregon
+edge2:Oregon,Idaho
+edge2:Oregon,Nevada
+edge2:Oregon,California
+edge2:California,Nevada
+edge2:California,Arizona
+edge2:Idaho,Montana
+edge2:Idaho,Wyoming
+edge2:Idaho,Utah
+edge2:Idaho,Nevada
+edge2:Nevada,Utah
+edge2:Nevada,Arizona
+edge2:Arizona,Utah
+edge2:Arizona,New Mexico
+edge2:Montana,North Dakota
+edge2:Montana,South Dakota
+edge2:Montana,Wyoming
+edge2:Utah,Wyoming
+edge2:Utah,Colorado
+edge2:Wyoming,Colorado
+edge2:Wyoming,South Dakota
+edge2:Wyoming,Nebraska
+edge2:Colorado,Nebraska
+edge2:Colorado,Oklahoma
+edge2:Colorado,Kansas
+edge2:Minnesota,South Dakota 
+edge2:Minnesota,North Dakota 
+edge2:South Dakota,Iowa
+edge2:South Dakota,Nebraska
+edge2:Nebraska,Iowa
+edge2:Nebraska,Missouri
+edge2:Nebraska,Kansas
+edge2:Kansas,Missouri
+edge2:Kansas,Oklahoma
+edge2:Oklahoma,New Mexico
+edge2:Oklahoma,Texas
+edge2:Oklahoma,Missouri
+edge2:Oklahoma,Arkansas
+edge2:Texas,Arkansas
+edge2:Texas,New Mexico
+edge2:Texas,Louisiana
+edge2:Minnesota,Iowa
+edge2:Minnesota,Wisconsin
+edge2:Iowa,Missouri
+edge2:Iowa,Wisconsin
+edge2:Iowa,Illinois
+edge2:Missouri,Arkansas
+edge2:Missouri,Illinois
+edge2:Missouri,Kentucky
+edge2:Missouri,Tennessee
+edge2:Arkansas,Louisiana
+edge2:Arkansas,Tennessee
+edge2:Arkansas,Mississippi
+edge2:Louisiana,Mississippi
+edge2:Wisconsin,Illinois
+edge2:Wisconsin,Michigan
+edge2:Illinois,Kentucky
+edge2:Illinois,Indiana
+edge2:Kentucky,Indiana
+edge2:Kentucky,Ohio
+edge2:Kentucky,West Virginia
+edge2:Kentucky,Virginia
+edge2:Kentucky,Tennessee
+edge2:Tennessee,Virginia
+edge2:Tennessee,North Carolina
+edge2:Tennessee,Georgia
+edge2:Tennessee,Alabama
+edge2:Tennessee,Mississippi
+edge2:Louisiana,Mississippi
+edge2:Mississippi,Alabama
+edge2:Indiana,Michigan
+edge2:Indiana,Ohio
+edge2:Alabama,Georgia
+edge2:Alabama,Florida
+edge2:Ohio,Pennsylvania
+edge2:Ohio,West Virginia
+edge2:Georgia,South Carolina
+edge2:Georgia,North Carolina
+edge2:Georgia,Florida
+edge2:West Virginia,Pennsylvania
+edge2:West Virginia,Maryland
+edge2:West Virginia,Virginia
+edge2:Virginia,Maryland
+edge2:Virginia,North Carolina
+edge2:North Carolina,South Carolina
+edge2:Pennsylvania,Maryland
+edge2:Pennsylvania,New Jersey
+edge2:Pennsylvania,Delaware
+edge2:Pennsylvania,New York
+edge2:Maryland,Delaware
+edge2:Delaware,New Jersey
+edge2:New York,New Jersey
+edge2:New York,Connecticut
+edge2:New York,Massachusetts
+edge2:New York,Vermont
+edge2:Connecticut,Rhode Island
+edge2:Connecticut,Massachusetts
+edge2:Massachusetts,Rhode Island
+edge2:Massachusetts,Vermont
+edge2:Massachusetts,New Hampshire
+edge2:New Hampshire,Vermont
+edge2:New Hampshire,Maine
+edge:Washington,Canada
+edge:Idaho,Canada
+edge:Montana,Canada
+edge:North Dakota,Canada
+edge:Alaska,Canada
+get_degree:Nevada
+display_shortest_path:California,Utah
+display_shortest_path:Washington,New Mexico
+display_shortest_path:Montana,Washington
+display_shortest_path_capitals:Washington,New Mexico
+display_shortest_path_capitals:Arizona,Canada
+display_shortest_path_capitals:Canada,Arizona
+display_shortest_path:Maine,Washington
